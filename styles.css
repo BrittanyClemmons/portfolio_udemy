@@ -1,7 +1,43 @@
-.placeholder {
-    background-color: red;
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 38px
 }
 
-.anotherClass {
-    background-color: blue;
+.left-side  {
+    display: flex;
+
+}
+
+.left-side  {
+    display: flex;
+    
+}
+
+.nav-wrapper > .left-side > div {
+    margin-right: 20px;
+    font-size: 0.9em;
+    text-transform: uppercase;
+}
+
+.nav-link-wrapper {
+    height: 22px;
+    border-bottom: 1 px solid transparent;
+    transition: border-bottom 0.5s;
+}
+
+/* Inside of the nav link wrapper grab the a link */
+.nav-link-wrapper a {
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+/* Check for pseudostate hover occurrence */
+.nav-link-wrapper:hover {
+    border-bottom: 1px solid black;
+}
+
+.nav-link-wrapper a:hover {
+    color: black;
 }
