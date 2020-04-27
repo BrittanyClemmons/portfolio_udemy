@@ -1,6 +1,7 @@
 /* Master styles */
 .body {
     margin: 0px
+
 }
 
 /* Setup container space as a grid */
@@ -109,4 +110,23 @@
 .img-darken {
     transition: 1s;
     filter: brightness(10%);
+}
+
+/* About Page styles */
+.two-column-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.profile-image-wrapper img {
+    width: 100%
+}
+
+.profile-content-wrapper {
+    padding: 30px;
+
+}
+
+.profile-content-wrapper h1 {
+    color: lightseagreen;
 }
