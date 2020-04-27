@@ -11,7 +11,7 @@ a project driven approach.
 
 ## Credits
 HTML5 & CSS Development: Learn How to Build a Professional Website | Udemy, Jordan Hudgens
-[Link to Youtube Tutorial] (https://youtu.be/5bMdjkfvONE)
-[Link to Udemy Course] (https://www.udemy.com/course/html-css-code-bootcamp/)
+[Link to Youtube Tutorial](https://youtu.be/5bMdjkfvONE)
+[Link to Udemy Course](https://www.udemy.com/course/html-css-code-bootcamp/)
 
 
