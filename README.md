@@ -1,6 +1,7 @@
 # Project | Udemy Tutorial: Professional Website
 
 ## Brittany Clemmons
+- [LinkedIn](https://www.linkedin.com/in/brittany-clemmons/)
   
 ## Github Publish Site
 This site is published at https://brittanyclemmons.github.io/project_udemy_website/
