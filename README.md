@@ -6,8 +6,7 @@
 This site is published at https://brittanyclemmons.github.io/project_udemy_website/
 
 ## Description
-In this project, a tutorial is demonstrated on how to build a portfolio website using
-a project driven approach.
+In this project, I completed a tutorial that demonstrates how to build a portfolio website using a project driven approach.
 
 ## Skills
 - HTML5
@@ -22,7 +21,8 @@ a project driven approach.
 
 ## Additions
 In addition to the tutorial, I used the logo images as links and linked them
-to their corresponding company site, charity, or group.
+to their corresponding company site, charity, or group. The addition provides
+further background into the displayed logos and the companies that created them.
 
 ## Credits
 HTML5 & CSS Development: Learn How to Build a Professional Website | Udemy, Jordan Hudgens
