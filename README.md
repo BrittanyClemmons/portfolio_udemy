@@ -21,7 +21,9 @@ In this project, I completed a tutorial that demonstrates how to build a portfol
 - Images
 
 ## Additions
-In addition to the tutorial, I used the logo images as links and linked them
+- 4/27/2020 Removed the js script from index and created a separate js file. Increased scaling
+for logos from 50% to 75% to improve appearance on mobile
+- 4/26/2020 In addition to the tutorial, I used the logo images as links and linked them
 to their corresponding company site, charity, or group. The addition provides
 further background into the displayed logos and the companies that created them.
 
